@@ -1,0 +1,13 @@
+E:\repos\LaunchCode\Chapter 7 Studio\Chapter 7 Studio\bin\Debug\netcoreapp3.1\Chapter 7 Studio.exe
+E:\repos\LaunchCode\Chapter 7 Studio\Chapter 7 Studio\bin\Debug\netcoreapp3.1\Chapter 7 Studio.deps.json
+E:\repos\LaunchCode\Chapter 7 Studio\Chapter 7 Studio\bin\Debug\netcoreapp3.1\Chapter 7 Studio.runtimeconfig.json
+E:\repos\LaunchCode\Chapter 7 Studio\Chapter 7 Studio\bin\Debug\netcoreapp3.1\Chapter 7 Studio.runtimeconfig.dev.json
+E:\repos\LaunchCode\Chapter 7 Studio\Chapter 7 Studio\bin\Debug\netcoreapp3.1\Chapter 7 Studio.dll
+E:\repos\LaunchCode\Chapter 7 Studio\Chapter 7 Studio\bin\Debug\netcoreapp3.1\Chapter 7 Studio.pdb
+E:\repos\LaunchCode\Chapter 7 Studio\Chapter 7 Studio\obj\Debug\netcoreapp3.1\Chapter 7 Studio.csprojAssemblyReference.cache
+E:\repos\LaunchCode\Chapter 7 Studio\Chapter 7 Studio\obj\Debug\netcoreapp3.1\Chapter 7 Studio.AssemblyInfoInputs.cache
+E:\repos\LaunchCode\Chapter 7 Studio\Chapter 7 Studio\obj\Debug\netcoreapp3.1\Chapter 7 Studio.AssemblyInfo.cs
+E:\repos\LaunchCode\Chapter 7 Studio\Chapter 7 Studio\obj\Debug\netcoreapp3.1\Chapter 7 Studio.csproj.CoreCompileInputs.cache
+E:\repos\LaunchCode\Chapter 7 Studio\Chapter 7 Studio\obj\Debug\netcoreapp3.1\Chapter 7 Studio.dll
+E:\repos\LaunchCode\Chapter 7 Studio\Chapter 7 Studio\obj\Debug\netcoreapp3.1\Chapter 7 Studio.pdb
+E:\repos\LaunchCode\Chapter 7 Studio\Chapter 7 Studio\obj\Debug\netcoreapp3.1\Chapter 7 Studio.genruntimeconfig.cache
