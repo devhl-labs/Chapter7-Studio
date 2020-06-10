@@ -15,7 +15,7 @@ namespace Chapter_7_Studio
 
         public override bool IsCorrect(string providedAnswer)
         {
-            if (providedAnswer.Length <= _maxLength)
+            if (providedAnswer.Length > 0 && providedAnswer.Length <= _maxLength)
                 return true;
 
             return false;
