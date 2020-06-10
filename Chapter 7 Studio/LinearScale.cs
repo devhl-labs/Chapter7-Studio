@@ -6,9 +6,9 @@ namespace Chapter_7_Studio
 {
     public class LinearScale : Question
     {
-        private int _min;
+        private readonly int _min;
 
-        private int _max;
+        private readonly int _max;
 
         public LinearScale(int min, int max, string question) : base(question)
         {

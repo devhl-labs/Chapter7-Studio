@@ -20,7 +20,7 @@ namespace Chapter_7_Studio
             _answer = answer;
 
             _options.Add(_answer);
-
+            
             foreach (string s in incorrect)
                 _options.Add(s);
         }

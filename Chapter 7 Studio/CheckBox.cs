@@ -23,7 +23,7 @@ namespace Chapter_7_Studio
             if (isTrue)
                 _answers.Add(answer);
             else
-                _options.Add(answer);
+                _incorrect.Add(answer);
         }
 
         public override string ToString()
